@@ -106,4 +106,3 @@ document.addEventListener('DOMContentLoaded', function() {
   document.querySelector('#translate-number').addEventListener('click', onSubmit);
 });
 
-
